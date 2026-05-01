@@ -28,6 +28,32 @@
   color: #61dafb;
 }
 
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background: #2d2d2d;
+  border-bottom: 1px solid #444;
+}
+
+.main-content {
+  flex: 1;
+  overflow: hidden; /* Prevents double scrollbars */
+}
+
+.editor-container {
+  height: 100%;
+  font-family: 'Fira Code', monospace;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
