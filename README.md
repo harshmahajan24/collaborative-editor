@@ -1,6 +1,9 @@
 # 🚪 CoRoom (Collaborative Code Editor)
 
 A real-time collaborative code editor — write, run, and debug code together in the same room, live, with your team or friends. Think Google Docs, but for code.
+<br>
+<img src="./assets/txt-logo.png" width="100px"  />
+
 
 ![status](https://img.shields.io/badge/status-active-brightgreen) ![license](https://img.shields.io/badge/license-MIT-blue)
 
@@ -30,6 +33,15 @@ A real-time collaborative code editor — write, run, and debug code together in
 | Code execution | Node `child_process`, shelling out to locally installed language toolchains |
 
 ---
+### 🔒 Screenshots
+- Authentication
+<img src="./assets/txt-logo.png" width="1000px"  />
+- Real time Collaboration
+<img src="./assets/txt-logo.png" width="1000px"  />
+
+
+
+
 
 ## ⚠️ How code execution actually works (read this)
 
